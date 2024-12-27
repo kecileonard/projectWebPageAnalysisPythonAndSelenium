@@ -1,0 +1,968 @@
+[
+    {
+        "Links": [
+            {
+                "href": "https://www.scrapingcourse.com/ecommerce/#site-navigation",
+                "text": "Skip to navigation",
+                "class": [
+                    "skip-link",
+                    "screen-reader-text"
+                ],
+                "id": "skip-to-navigation"
+            },
+            {
+                "href": "https://www.scrapingcourse.com/ecommerce/#content",
+                "text": "Skip to content",
+                "class": [
+                    "skip-link",
+                    "screen-reader-text"
+                ],
+                "id": "skip-to-content"
+            },
+            {
+                "href": "https://www.scrapingcourse.com/ecommerce/",
+                "text": "Ecommerce Test Site to Learn Web Scraping",
+                "class": null
+            },
+            {
+                "href": "https://www.scrapingcourse.com/ecommerce/",
+                "text": "Shop",
+                "class": null
+            },
+            {
+                "href": "https://www.scrapingcourse.com/ecommerce/",
+                "text": "Home",
+                "class": null
+            },
+            {
+                "href": "https://www.scrapingcourse.com/ecommerce/cart/",
+                "text": "Cart",
+                "class": null
+            },
+            {
+                "href": "https://www.scrapingcourse.com/ecommerce/checkout/",
+                "text": "Checkout",
+                "class": null
+            },
+            {
+                "href": "https://www.scrapingcourse.com/ecommerce/my-account/",
+                "text": "My account",
+                "class": null
+            },
+            {
+                "href": "https://www.scrapingcourse.com/ecommerce/cart/",
+                "text": "$0.00 0 items",
+                "class": [
+                    "cart-contents"
+                ],
+                "title": "View your shopping cart"
+            },
+            {
+                "href": "https://www.scrapingcourse.com/ecommerce/page/2/?orderby=popularity",
+                "text": "2",
+                "class": [
+                    "page-numbers"
+                ]
+            },
+            {
+                "href": "https://www.scrapingcourse.com/ecommerce/page/3/?orderby=popularity",
+                "text": "3",
+                "class": [
+                    "page-numbers"
+                ]
+            },
+            {
+                "href": "https://www.scrapingcourse.com/ecommerce/page/4/?orderby=popularity",
+                "text": "4",
+                "class": [
+                    "page-numbers"
+                ]
+            },
+            {
+                "href": "https://www.scrapingcourse.com/ecommerce/page/10/?orderby=popularity",
+                "text": "10",
+                "class": [
+                    "page-numbers"
+                ]
+            },
+            {
+                "href": "https://www.scrapingcourse.com/ecommerce/page/11/?orderby=popularity",
+                "text": "11",
+                "class": [
+                    "page-numbers"
+                ]
+            },
+            {
+                "href": "https://www.scrapingcourse.com/ecommerce/page/12/?orderby=popularity",
+                "text": "12",
+                "class": [
+                    "page-numbers"
+                ]
+            },
+            {
+                "href": "https://www.scrapingcourse.com/ecommerce/page/2/?orderby=popularity",
+                "text": "→",
+                "class": [
+                    "next",
+                    "page-numbers"
+                ]
+            },
+            {
+                "href": "https://www.scrapingcourse.com/ecommerce/product/push-it-messenger-bag/",
+                "text": "Push It Messenger Bag$45.00",
+                "class": [
+                    "woocommerce-LoopProduct-link",
+                    "woocommerce-loop-product__link"
+                ]
+            },
+            {
+                "href": "https://www.scrapingcourse.com/ecommerce/?add-to-cart=2802",
+                "text": "Add to cart",
+                "class": [
+                    "button",
+                    "product_type_simple",
+                    "add_to_cart_button",
+                    "ajax_add_to_cart"
+                ],
+                "aria-label": "Add to cart: “Push It Messenger Bag”"
+            },
+            {
+                "href": "https://www.scrapingcourse.com/ecommerce/product/overnight-duffle/",
+                "text": "Overnight Duffle$45.00",
+                "class": [
+                    "woocommerce-LoopProduct-link",
+                    "woocommerce-loop-product__link"
+                ]
+            },
+            {
+                "href": "https://www.scrapingcourse.com/ecommerce/?add-to-cart=2796",
+                "text": "Add to cart",
+                "class": [
+                    "button",
+                    "product_type_simple",
+                    "add_to_cart_button",
+                    "ajax_add_to_cart"
+                ],
+                "aria-label": "Add to cart: “Overnight Duffle”"
+            },
+            {
+                "href": "https://www.scrapingcourse.com/ecommerce/product/driven-backpack/",
+                "text": "Driven Backpack$36.00",
+                "class": [
+                    "woocommerce-LoopProduct-link",
+                    "woocommerce-loop-product__link"
+                ]
+            },
+            {
+                "href": "https://www.scrapingcourse.com/ecommerce/?add-to-cart=2795",
+                "text": "Add to cart",
+                "class": [
+                    "button",
+                    "product_type_simple",
+                    "add_to_cart_button",
+                    "ajax_add_to_cart"
+                ],
+                "aria-label": "Add to cart: “Driven Backpack”"
+            },
+            {
+                "href": "https://www.scrapingcourse.com/ecommerce/product/endeavor-daytrip-backpack/",
+                "text": "Endeavor Daytrip Backpack$33.00",
+                "class": [
+                    "woocommerce-LoopProduct-link",
+                    "woocommerce-loop-product__link"
+                ]
+            },
+            {
+                "href": "https://www.scrapingcourse.com/ecommerce/?add-to-cart=2794",
+                "text": "Add to cart",
+                "class": [
+                    "button",
+                    "product_type_simple",
+                    "add_to_cart_button",
+                    "ajax_add_to_cart"
+                ],
+                "aria-label": "Add to cart: “Endeavor Daytrip Backpack”"
+            },
+            {
+                "href": "https://www.scrapingcourse.com/ecommerce/product/savvy-shoulder-tote/",
+                "text": "Savvy Shoulder ToteSale!$32.00 $24.00",
+                "class": [
+                    "woocommerce-LoopProduct-link",
+                    "woocommerce-loop-product__link"
+                ]
+            },
+            {
+                "href": "https://www.scrapingcourse.com/ecommerce/?add-to-cart=2793",
+                "text": "Add to cart",
+                "class": [
+                    "button",
+                    "product_type_simple",
+                    "add_to_cart_button",
+                    "ajax_add_to_cart"
+                ],
+                "aria-label": "Add to cart: “Savvy Shoulder Tote”"
+            },
+            {
+                "href": "https://www.scrapingcourse.com/ecommerce/product/compete-track-tote/",
+                "text": "Compete Track Tote$32.00",
+                "class": [
+                    "woocommerce-LoopProduct-link",
+                    "woocommerce-loop-product__link"
+                ]
+            },
+            {
+                "href": "https://www.scrapingcourse.com/ecommerce/?add-to-cart=2792",
+                "text": "Add to cart",
+                "class": [
+                    "button",
+                    "product_type_simple",
+                    "add_to_cart_button",
+                    "ajax_add_to_cart"
+                ],
+                "aria-label": "Add to cart: “Compete Track Tote”"
+            },
+            {
+                "href": "https://www.scrapingcourse.com/ecommerce/product/voyage-yoga-bag/",
+                "text": "Voyage Yoga Bag$32.00",
+                "class": [
+                    "woocommerce-LoopProduct-link",
+                    "woocommerce-loop-product__link"
+                ]
+            },
+            {
+                "href": "https://www.scrapingcourse.com/ecommerce/?add-to-cart=2791",
+                "text": "Add to cart",
+                "class": [
+                    "button",
+                    "product_type_simple",
+                    "add_to_cart_button",
+                    "ajax_add_to_cart"
+                ],
+                "aria-label": "Add to cart: “Voyage Yoga Bag”"
+            },
+            {
+                "href": "https://www.scrapingcourse.com/ecommerce/product/impulse-duffle/",
+                "text": "Impulse Duffle$74.00",
+                "class": [
+                    "woocommerce-LoopProduct-link",
+                    "woocommerce-loop-product__link"
+                ]
+            },
+            {
+                "href": "https://www.scrapingcourse.com/ecommerce/?add-to-cart=2785",
+                "text": "Add to cart",
+                "class": [
+                    "button",
+                    "product_type_simple",
+                    "add_to_cart_button",
+                    "ajax_add_to_cart"
+                ],
+                "aria-label": "Add to cart: “Impulse Duffle”"
+            },
+            {
+                "href": "https://www.scrapingcourse.com/ecommerce/product/fusion-backpack/",
+                "text": "Fusion Backpack$59.00",
+                "class": [
+                    "woocommerce-LoopProduct-link",
+                    "woocommerce-loop-product__link"
+                ]
+            },
+            {
+                "href": "https://www.scrapingcourse.com/ecommerce/?add-to-cart=2784",
+                "text": "Add to cart",
+                "class": [
+                    "button",
+                    "product_type_simple",
+                    "add_to_cart_button",
+                    "ajax_add_to_cart"
+                ],
+                "aria-label": "Add to cart: “Fusion Backpack”"
+            },
+            {
+                "href": "https://www.scrapingcourse.com/ecommerce/product/rival-field-messenger/",
+                "text": "Rival Field Messenger$45.00",
+                "class": [
+                    "woocommerce-LoopProduct-link",
+                    "woocommerce-loop-product__link"
+                ]
+            },
+            {
+                "href": "https://www.scrapingcourse.com/ecommerce/?add-to-cart=2783",
+                "text": "Add to cart",
+                "class": [
+                    "button",
+                    "product_type_simple",
+                    "add_to_cart_button",
+                    "ajax_add_to_cart"
+                ],
+                "aria-label": "Add to cart: “Rival Field Messenger”"
+            },
+            {
+                "href": "https://www.scrapingcourse.com/ecommerce/product/wayfarer-messenger-bag/",
+                "text": "Wayfarer Messenger Bag$45.00",
+                "class": [
+                    "woocommerce-LoopProduct-link",
+                    "woocommerce-loop-product__link"
+                ]
+            },
+            {
+                "href": "https://www.scrapingcourse.com/ecommerce/?add-to-cart=2782",
+                "text": "Add to cart",
+                "class": [
+                    "button",
+                    "product_type_simple",
+                    "add_to_cart_button",
+                    "ajax_add_to_cart"
+                ],
+                "aria-label": "Add to cart: “Wayfarer Messenger Bag”"
+            },
+            {
+                "href": "https://www.scrapingcourse.com/ecommerce/product/crown-summit-backpack/",
+                "text": "Crown Summit Backpack$38.00",
+                "class": [
+                    "woocommerce-LoopProduct-link",
+                    "woocommerce-loop-product__link"
+                ]
+            },
+            {
+                "href": "https://www.scrapingcourse.com/ecommerce/?add-to-cart=2781",
+                "text": "Add to cart",
+                "class": [
+                    "button",
+                    "product_type_simple",
+                    "add_to_cart_button",
+                    "ajax_add_to_cart"
+                ],
+                "aria-label": "Add to cart: “Crown Summit Backpack”"
+            },
+            {
+                "href": "https://www.scrapingcourse.com/ecommerce/product/strive-shoulder-pack/",
+                "text": "Strive Shoulder Pack$32.00",
+                "class": [
+                    "woocommerce-LoopProduct-link",
+                    "woocommerce-loop-product__link"
+                ]
+            },
+            {
+                "href": "https://www.scrapingcourse.com/ecommerce/?add-to-cart=2775",
+                "text": "Add to cart",
+                "class": [
+                    "button",
+                    "product_type_simple",
+                    "add_to_cart_button",
+                    "ajax_add_to_cart"
+                ],
+                "aria-label": "Add to cart: “Strive Shoulder Pack”"
+            },
+            {
+                "href": "https://www.scrapingcourse.com/ecommerce/product/joust-duffle-bag/",
+                "text": "Joust Duffle Bag$34.00",
+                "class": [
+                    "woocommerce-LoopProduct-link",
+                    "woocommerce-loop-product__link"
+                ]
+            },
+            {
+                "href": "https://www.scrapingcourse.com/ecommerce/?add-to-cart=2774",
+                "text": "Add to cart",
+                "class": [
+                    "button",
+                    "product_type_simple",
+                    "add_to_cart_button",
+                    "ajax_add_to_cart"
+                ],
+                "aria-label": "Add to cart: “Joust Duffle Bag”"
+            },
+            {
+                "href": "https://www.scrapingcourse.com/ecommerce/product/harmony-lumaflex-strength-band-kit/",
+                "text": "Harmony Lumaflex™ Strength Band Kit$22.00",
+                "class": [
+                    "woocommerce-LoopProduct-link",
+                    "woocommerce-loop-product__link"
+                ]
+            },
+            {
+                "href": "https://www.scrapingcourse.com/ecommerce/?add-to-cart=2773",
+                "text": "Add to cart",
+                "class": [
+                    "button",
+                    "product_type_simple",
+                    "add_to_cart_button",
+                    "ajax_add_to_cart"
+                ],
+                "aria-label": "Add to cart: “Harmony Lumaflex™ Strength Band Kit”"
+            },
+            {
+                "href": "https://www.scrapingcourse.com/ecommerce/product/sprite-foam-roller/",
+                "text": "Sprite Foam Roller$19.00",
+                "class": [
+                    "woocommerce-LoopProduct-link",
+                    "woocommerce-loop-product__link"
+                ]
+            },
+            {
+                "href": "https://www.scrapingcourse.com/ecommerce/?add-to-cart=2772",
+                "text": "Add to cart",
+                "class": [
+                    "button",
+                    "product_type_simple",
+                    "add_to_cart_button",
+                    "ajax_add_to_cart"
+                ],
+                "aria-label": "Add to cart: “Sprite Foam Roller”"
+            },
+            {
+                "href": "https://www.scrapingcourse.com/ecommerce/page/2/?orderby=popularity",
+                "text": "2",
+                "class": [
+                    "page-numbers"
+                ]
+            },
+            {
+                "href": "https://www.scrapingcourse.com/ecommerce/page/3/?orderby=popularity",
+                "text": "3",
+                "class": [
+                    "page-numbers"
+                ]
+            },
+            {
+                "href": "https://www.scrapingcourse.com/ecommerce/page/4/?orderby=popularity",
+                "text": "4",
+                "class": [
+                    "page-numbers"
+                ]
+            },
+            {
+                "href": "https://www.scrapingcourse.com/ecommerce/page/10/?orderby=popularity",
+                "text": "10",
+                "class": [
+                    "page-numbers"
+                ]
+            },
+            {
+                "href": "https://www.scrapingcourse.com/ecommerce/page/11/?orderby=popularity",
+                "text": "11",
+                "class": [
+                    "page-numbers"
+                ]
+            },
+            {
+                "href": "https://www.scrapingcourse.com/ecommerce/page/12/?orderby=popularity",
+                "text": "12",
+                "class": [
+                    "page-numbers"
+                ]
+            },
+            {
+                "href": "https://www.scrapingcourse.com/ecommerce/page/2/?orderby=popularity",
+                "text": "→",
+                "class": [
+                    "next",
+                    "page-numbers"
+                ]
+            },
+            {
+                "href": "https://woo.com",
+                "text": "Built with WooCommerce",
+                "class": null,
+                "title": "WooCommerce - The Best eCommerce Platform for WordPress"
+            },
+            {
+                "href": "https://www.scrapingcourse.com/ecommerce/my-account/",
+                "text": "My Account",
+                "class": null
+            },
+            {
+                "href": "https://www.scrapingcourse.com/ecommerce/",
+                "text": "Search",
+                "class": null
+            },
+            {
+                "href": "https://www.scrapingcourse.com/ecommerce/cart/",
+                "text": "Cart0",
+                "class": [
+                    "footer-cart-contents"
+                ]
+            }
+        ],
+        "Buttons": [
+            {
+                "text": "Search",
+                "id": "product-search-button",
+                "type": "submit",
+                "class": [],
+                "data-testid": "product-search-button",
+                "value": "Search"
+            },
+            {
+                "text": "Menu",
+                "id": "site-navigation-menu-toggle",
+                "type": null,
+                "class": [
+                    "menu-toggle"
+                ],
+                "data-testid": "site-navigation-menu-toggle",
+                "data-nav": "toggle"
+            },
+            {
+                "text": "Search",
+                "id": null,
+                "type": "submit",
+                "aria-label": "Search",
+                "class": [
+                    "wp-block-search__button",
+                    "wp-element-button"
+                ]
+            },
+            {
+                "text": "Search",
+                "id": "product-search-button",
+                "type": "submit",
+                "class": [],
+                "data-testid": "product-search-button",
+                "value": "Search"
+            }
+        ],
+        "Dropdowns": [
+            {
+                "select_name": "orderby",
+                "select_class": [
+                    "orderby"
+                ],
+                "select_id": "order-select",
+                "select_aria_label": "Shop order",
+                "option_values": [
+                    "menu_order",
+                    "popularity",
+                    "date",
+                    "price",
+                    "price-desc"
+                ],
+                "option_texts": [
+                    "Default sorting",
+                    "Sort by popularity",
+                    "Sort by latest",
+                    "Sort by price: low to high",
+                    "Sort by price: high to low"
+                ],
+                "selected_value": "popularity",
+                "selected_text": "Sort by popularity"
+            },
+            {
+                "select_name": "orderby",
+                "select_class": [
+                    "orderby"
+                ],
+                "select_id": "order-select",
+                "select_aria_label": "Shop order",
+                "option_values": [
+                    "menu_order",
+                    "popularity",
+                    "date",
+                    "price",
+                    "price-desc"
+                ],
+                "option_texts": [
+                    "Default sorting",
+                    "Sort by popularity",
+                    "Sort by latest",
+                    "Sort by price: low to high",
+                    "Sort by price: high to low"
+                ],
+                "selected_value": "popularity",
+                "selected_text": "Sort by popularity"
+            }
+        ],
+        "Inputs": [
+            {
+                "type": "search",
+                "id": "woocommerce-product-search-field-0",
+                "value": "",
+                "name": "s",
+                "data-testid": "product-search-field",
+                "class": [
+                    "search-field"
+                ],
+                "placeholder": "Search products…"
+            },
+            {
+                "type": "hidden",
+                "id": "product-search-hidden",
+                "value": "product",
+                "name": "post_type",
+                "data-testid": "product-search-hidden"
+            },
+            {
+                "type": "hidden",
+                "id": "order-paged",
+                "value": "1",
+                "name": "paged",
+                "data-testid": "order-paged"
+            },
+            {
+                "type": "hidden",
+                "id": "order-paged",
+                "value": "1",
+                "name": "paged",
+                "data-testid": "order-paged"
+            },
+            {
+                "type": "search",
+                "id": "wp-block-search__input-1",
+                "value": "",
+                "name": "s",
+                "data-testid": null,
+                "class": [
+                    "wp-block-search__input"
+                ],
+                "placeholder": ""
+            },
+            {
+                "type": "search",
+                "id": "woocommerce-product-search-field-1",
+                "value": "",
+                "name": "s",
+                "data-testid": "product-search-field",
+                "class": [
+                    "search-field"
+                ],
+                "placeholder": "Search products…"
+            },
+            {
+                "type": "hidden",
+                "id": "product-search-hidden",
+                "value": "product",
+                "name": "post_type",
+                "data-testid": "product-search-hidden"
+            }
+        ],
+        "Forms": {
+            "form1": {
+                "form_attrs": [
+                    {
+                        "role": "search",
+                        "method": "get",
+                        "action": "https://www.scrapingcourse.com/ecommerce/",
+                        "class": [
+                            "woocommerce-product-search"
+                        ],
+                        "id": null,
+                        "text": "Search for:Search"
+                    }
+                ],
+                "inputs": [
+                    {
+                        "type": "search",
+                        "name": "s",
+                        "value": "",
+                        "id": "woocommerce-product-search-field-0"
+                    },
+                    {
+                        "type": "hidden",
+                        "name": "post_type",
+                        "value": "product",
+                        "id": "product-search-hidden"
+                    }
+                ]
+            },
+            "form2": {
+                "form_attrs": [
+                    {
+                        "role": null,
+                        "method": "get",
+                        "action": null,
+                        "class": [
+                            "woocommerce-ordering"
+                        ],
+                        "id": null,
+                        "text": "Default sortingSort by popularitySort by latestSort by price: low to highSort by price: high to low"
+                    }
+                ],
+                "inputs": [
+                    {
+                        "type": "hidden",
+                        "name": "paged",
+                        "value": "1",
+                        "id": "order-paged"
+                    }
+                ],
+                "select_options": [
+                    {
+                        "select_name": "orderby",
+                        "select_class": [
+                            "orderby"
+                        ],
+                        "select_id": "order-select",
+                        "select_aria_label": "Shop order",
+                        "option_values": [
+                            "menu_order",
+                            "popularity",
+                            "date",
+                            "price",
+                            "price-desc"
+                        ],
+                        "option_texts": [
+                            "Default sorting",
+                            "Sort by popularity",
+                            "Sort by latest",
+                            "Sort by price: low to high",
+                            "Sort by price: high to low"
+                        ],
+                        "selected_value": "popularity",
+                        "selected_text": "Sort by popularity"
+                    }
+                ]
+            },
+            "form3": {
+                "form_attrs": [
+                    {
+                        "role": null,
+                        "method": "get",
+                        "action": null,
+                        "class": [
+                            "woocommerce-ordering"
+                        ],
+                        "id": null,
+                        "text": "Default sortingSort by popularitySort by latestSort by price: low to highSort by price: high to low"
+                    }
+                ],
+                "inputs": [
+                    {
+                        "type": "hidden",
+                        "name": "paged",
+                        "value": "1",
+                        "id": "order-paged"
+                    }
+                ],
+                "select_options": [
+                    {
+                        "select_name": "orderby",
+                        "select_class": [
+                            "orderby"
+                        ],
+                        "select_id": "order-select",
+                        "select_aria_label": "Shop order",
+                        "option_values": [
+                            "menu_order",
+                            "popularity",
+                            "date",
+                            "price",
+                            "price-desc"
+                        ],
+                        "option_texts": [
+                            "Default sorting",
+                            "Sort by popularity",
+                            "Sort by latest",
+                            "Sort by price: low to high",
+                            "Sort by price: high to low"
+                        ],
+                        "selected_value": "popularity",
+                        "selected_text": "Sort by popularity"
+                    }
+                ]
+            },
+            "form4": {
+                "form_attrs": [
+                    {
+                        "role": "search",
+                        "method": "get",
+                        "action": "https://www.scrapingcourse.com/ecommerce/",
+                        "class": [
+                            "wp-block-search__button-outside",
+                            "wp-block-search__text-button",
+                            "wp-block-search"
+                        ],
+                        "id": null,
+                        "text": "SearchSearch"
+                    }
+                ],
+                "inputs": [
+                    {
+                        "type": "search",
+                        "name": "s",
+                        "value": "",
+                        "id": "wp-block-search__input-1"
+                    }
+                ]
+            },
+            "form5": {
+                "form_attrs": [
+                    {
+                        "role": "search",
+                        "method": "get",
+                        "action": "https://www.scrapingcourse.com/ecommerce/",
+                        "class": [
+                            "woocommerce-product-search"
+                        ],
+                        "id": null,
+                        "text": "Search for:Search"
+                    }
+                ],
+                "inputs": [
+                    {
+                        "type": "search",
+                        "name": "s",
+                        "value": "",
+                        "id": "woocommerce-product-search-field-1"
+                    },
+                    {
+                        "type": "hidden",
+                        "name": "post_type",
+                        "value": "product",
+                        "id": "product-search-hidden"
+                    }
+                ]
+            }
+        },
+        "Navs": {
+            "nav1": {
+                "nav_attrs": {
+                    "id": "site-navigation",
+                    "class": [
+                        "main-navigation"
+                    ],
+                    "data-testid": "site-navigation",
+                    "aria-label": "Primary Navigation",
+                    "role": "navigation"
+                },
+                "list_items": [
+                    {
+                        "text": "Shop",
+                        "class": [
+                            "menu-item",
+                            "menu-item-type-post_type",
+                            "menu-item-object-page",
+                            "menu-item-home",
+                            "current-menu-item",
+                            "current_page_item",
+                            "menu-item-2829"
+                        ],
+                        "id": "menu-item-2829",
+                        "href": "https://www.scrapingcourse.com/ecommerce/"
+                    },
+                    {
+                        "text": "Home",
+                        "class": [
+                            "current_page_item"
+                        ],
+                        "href": "https://www.scrapingcourse.com/ecommerce/"
+                    },
+                    {
+                        "text": "Cart",
+                        "class": [
+                            "page_item",
+                            "page-item-7"
+                        ],
+                        "href": "https://www.scrapingcourse.com/ecommerce/cart/"
+                    },
+                    {
+                        "text": "Checkout",
+                        "class": [
+                            "page_item",
+                            "page-item-8"
+                        ],
+                        "href": "https://www.scrapingcourse.com/ecommerce/checkout/"
+                    },
+                    {
+                        "text": "My account",
+                        "class": [
+                            "page_item",
+                            "page-item-9"
+                        ],
+                        "href": "https://www.scrapingcourse.com/ecommerce/my-account/"
+                    }
+                ]
+            },
+            "nav2": {
+                "nav_attrs": {
+                    "id": "pagination",
+                    "class": [
+                        "woocommerce-pagination"
+                    ],
+                    "data-testid": "pagination"
+                },
+                "list_items": [
+                    {
+                        "text": "1"
+                    },
+                    {
+                        "text": "2",
+                        "href": "https://www.scrapingcourse.com/ecommerce/page/2/?orderby=popularity"
+                    },
+                    {
+                        "text": "3",
+                        "href": "https://www.scrapingcourse.com/ecommerce/page/3/?orderby=popularity"
+                    },
+                    {
+                        "text": "4",
+                        "href": "https://www.scrapingcourse.com/ecommerce/page/4/?orderby=popularity"
+                    },
+                    {
+                        "text": "…"
+                    },
+                    {
+                        "text": "10",
+                        "href": "https://www.scrapingcourse.com/ecommerce/page/10/?orderby=popularity"
+                    },
+                    {
+                        "text": "11",
+                        "href": "https://www.scrapingcourse.com/ecommerce/page/11/?orderby=popularity"
+                    },
+                    {
+                        "text": "12",
+                        "href": "https://www.scrapingcourse.com/ecommerce/page/12/?orderby=popularity"
+                    },
+                    {
+                        "text": "→",
+                        "href": "https://www.scrapingcourse.com/ecommerce/page/2/?orderby=popularity"
+                    }
+                ]
+            },
+            "nav3": {
+                "nav_attrs": {
+                    "id": "pagination",
+                    "class": [
+                        "woocommerce-pagination"
+                    ],
+                    "data-testid": "pagination"
+                },
+                "list_items": [
+                    {
+                        "text": "1"
+                    },
+                    {
+                        "text": "2",
+                        "href": "https://www.scrapingcourse.com/ecommerce/page/2/?orderby=popularity"
+                    },
+                    {
+                        "text": "3",
+                        "href": "https://www.scrapingcourse.com/ecommerce/page/3/?orderby=popularity"
+                    },
+                    {
+                        "text": "4",
+                        "href": "https://www.scrapingcourse.com/ecommerce/page/4/?orderby=popularity"
+                    },
+                    {
+                        "text": "…"
+                    },
+                    {
+                        "text": "10",
+                        "href": "https://www.scrapingcourse.com/ecommerce/page/10/?orderby=popularity"
+                    },
+                    {
+                        "text": "11",
+                        "href": "https://www.scrapingcourse.com/ecommerce/page/11/?orderby=popularity"
+                    },
+                    {
+                        "text": "12",
+                        "href": "https://www.scrapingcourse.com/ecommerce/page/12/?orderby=popularity"
+                    },
+                    {
+                        "text": "→",
+                        "href": "https://www.scrapingcourse.com/ecommerce/page/2/?orderby=popularity"
+                    }
+                ]
+            }
+        }
+    }
+]
