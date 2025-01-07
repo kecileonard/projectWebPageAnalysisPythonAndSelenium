@@ -9,14 +9,6 @@ import json
 from pprint import pprint
 import os
 
-""" Selenium libs"""
-from selenium import webdriver
-from selenium.webdriver.chrome.service import Service
-from selenium.webdriver.common.by import By
-from selenium.webdriver.common.keys import Keys
-from selenium.webdriver.support.ui import WebDriverWait
-from selenium.webdriver.support import expected_conditions as EC
-
 
 def base_url():
     url = 'https://www.scrapingcourse.com/ecommerce/'
@@ -69,44 +61,44 @@ def find_next_page(page, parameter=None):
 
 
 def extract_interactive_elements(soup):
-    inputs = []
-    links = []
-    buttons = []
-    forms = []
-    dropdowns = []
-    navs = []
 
     try:
         buttons = soup.find_all('button')
     except AttributeError:
         print('Could not find buttons tag. The structure of the web page might have changed.')
+        buttons = ''
 
     try:
         # links = soup.find_all('a', attrs={'href': re.compile("^https://")})
         links = soup.find_all('a')
     except AttributeError:
         print('Could not find links tag  inside the structure of the web page ')
+        links = ''
 
     try:
         inputs = soup.find_all('input')
     except AttributeError:
         print('Could not find input fields inside the structure of the web page')
+        inputs = ''
 
     try:
         """Returns all form tags found on the web page of the 'url' """
         forms = soup.find_all('form')
     except AttributeError:
         print('Could not find form fields inside the structure of the web page')
+        forms = ''
 
     try:
         navs = soup.find_all('nav')
     except AttributeError:
         print('Could not find nav elements inside the structure of the web page')
+        navs = ''
 
     try:
         dropdowns = soup.find_all('select')
     except AttributeError:
         print('Could not find dropdown  inside the structure of the web page')
+        dropdowns = ''
 
     # return button_tags, link_tags, input_tags, dropdowns , form_tags, select_tags
     output = {
@@ -180,7 +172,7 @@ def process_links(links):
             data_links.append(data)
     else:
         print('Links  not found in the page')
-        ''' data_links is a list of items where each item is on itself a list of dictionaries '''
+        ''' data_links is a list of items where each item is on itself a  dictionary '''
     return data_links
 
 
@@ -451,6 +443,35 @@ def process_inputs(inputs):
         print('Input fields  not found in the page')
     return data_inputs
 
+def collect_interactive_elements_attributes_from_current_page(output_info):
+    ''' links data is a list of items where each item is on itself a  dictionary '''
+    links_data = process_links(output_info['links'])
+
+    ''' forms_data is a dict of dicts '''
+    forms_data = process_forms(output_info['forms'])
+
+    ''' buttons_data is a list of dicts '''
+    buttons_data = process_buttons(output_info['buttons'])
+
+    ''' dropdowns_data is a list of dicts '''
+    dropdowns_data = process_dropdowns(output_info['dropdowns'])
+
+    ''' inputs_data is a list of dicts '''
+    inputs_data = process_inputs(output_info['inputs'])
+
+    '''navs_data is a dict of dicts '''
+    navs_data = process_navs(output_info['navs'])
+
+    interactive_elements = {
+        'links': links_data,
+        'forms': forms_data,
+        'buttons': buttons_data,
+        'dropdowns': dropdowns_data,
+        'inputs': inputs_data,
+        'navs': navs_data,
+    }
+    return interactive_elements
+
 
 def save_record_to_files(record, pathFile, create_new_file=False):
     if create_new_file:
@@ -522,25 +543,25 @@ def main(pathFile, search_parameter=None):
         if not html:
             break
         soup = collect_data_from_page(html)
-        output_info = extract_interactive_elements(soup)
+        dict_interactive_elements = extract_interactive_elements(soup)
 
         """ Print Nr Interactive elements present on each page of the ecommerce  website """
-        nr_links = "Nr links: '{}' ".format(len(output_info['links']))
+        nr_links = "Nr links: '{}' ".format(len(dict_interactive_elements['links']))
         print(nr_links)
 
-        nr_forms = "Nr Forms  : '{}' ".format(len(output_info['forms']))
+        nr_forms = "Nr Forms  : '{}' ".format(len(dict_interactive_elements['forms']))
         print(nr_forms)
 
-        nr_buttons = "Nr Buttons: '{}' ".format(len(output_info['buttons']))
+        nr_buttons = "Nr Buttons: '{}' ".format(len(dict_interactive_elements['buttons']))
         print(nr_buttons)
 
-        nr_dropdowns = "Nr DropDowns: '{}' ".format(len(output_info['dropdowns']))
+        nr_dropdowns = "Nr DropDowns: '{}' ".format(len(dict_interactive_elements['dropdowns']))
         print(nr_dropdowns)
 
-        nr_inputs = "Nr Inputs : '{}' ".format(len(output_info['inputs']))
+        nr_inputs = "Nr Inputs : '{}' ".format(len(dict_interactive_elements['inputs']))
         print(nr_inputs)
 
-        nr_navbars = "Nr Nav's  : '{}' ".format(len(output_info['navs']))
+        nr_navbars = "Nr Nav's  : '{}' ".format(len(dict_interactive_elements['navs']))
         print(nr_navbars)
 
         element_count = [
@@ -555,27 +576,16 @@ def main(pathFile, search_parameter=None):
         dictionary = {url_page: element_count}
         list_count.append(dictionary)
 
-        """ process interactive elements and extract the data attributes """
-        ''' links data is a list of items where each item is on itself a list of dictionaries '''
-        links_data = process_links(output_info['links'])
-        ''' forms_data is a dict of dicts '''
-        forms_data = process_forms(output_info['forms'])
-        ''' buttons_data is a list of dicts '''
-        buttons_data = process_buttons(output_info['buttons'])
-        ''' dropdowns_data is a list of dicts '''
-        dropdowns_data = process_dropdowns(output_info['dropdowns'])
-        ''' inputs_data is a list of dicts '''
-        inputs_data = process_inputs(output_info['inputs'])
-        '''navs_data is a dict of dicts '''
-        navs_data = process_navs(output_info['navs'])
+        """extract the interactive elements attributes for page"""
+        interactive_elements = collect_interactive_elements_attributes_from_current_page(dict_interactive_elements)
 
         elements_data = {
-            'Links': links_data,
-            'Forms': forms_data,
-            'Buttons': buttons_data,
-            'Dropdowns': dropdowns_data,
-            'Inputs': inputs_data,
-            'Navs': navs_data,
+            'Links': interactive_elements['links'],
+            'Forms': interactive_elements['forms'],
+            'Buttons': interactive_elements['buttons'],
+            'Dropdowns': interactive_elements['dropdowns'],
+            'Inputs': interactive_elements['inputs'],
+            'Navs': interactive_elements['navs'],
         }
 
         """ record is list of dictionaries with interactive element attributes data to save in a json file """
