@@ -1,0 +1,1069 @@
+[
+    {
+        "url": "https://www.scrapingcourse.com/ecommerce/page/5/?orderby=popularity",
+        "nr_tot_links": 70,
+        "links_attributes": {
+            "link1": {
+                "text": "Skip to navigation",
+                "class": [
+                    "skip-link",
+                    "screen-reader-text"
+                ],
+                "id": "skip-to-navigation"
+            },
+            "link2": {
+                "text": "Skip to content",
+                "class": [
+                    "skip-link",
+                    "screen-reader-text"
+                ],
+                "id": "skip-to-content"
+            },
+            "link3": {
+                "href": "https://www.scrapingcourse.com/ecommerce/",
+                "text": "Ecommerce Test Site to Learn Web Scraping"
+            },
+            "link4": {
+                "href": "https://www.scrapingcourse.com/ecommerce/",
+                "text": "Shop"
+            },
+            "link5": {
+                "href": "https://www.scrapingcourse.com/ecommerce/",
+                "text": "Home"
+            },
+            "link6": {
+                "href": "https://www.scrapingcourse.com/ecommerce/cart/",
+                "text": "Cart"
+            },
+            "link7": {
+                "href": "https://www.scrapingcourse.com/ecommerce/checkout/",
+                "text": "Checkout"
+            },
+            "link8": {
+                "href": "https://www.scrapingcourse.com/ecommerce/my-account/",
+                "text": "My account"
+            },
+            "link9": {
+                "href": "https://www.scrapingcourse.com/ecommerce/cart/",
+                "text": "$0.00 0 items",
+                "class": [
+                    "cart-contents"
+                ],
+                "title": "View your shopping cart"
+            },
+            "link10": {
+                "href": "https://www.scrapingcourse.com/ecommerce",
+                "text": "Home"
+            },
+            "link11": {
+                "href": "https://www.scrapingcourse.com/ecommerce/page/4/?orderby=popularity",
+                "text": "←",
+                "class": [
+                    "prev",
+                    "page-numbers"
+                ]
+            },
+            "link12": {
+                "href": "https://www.scrapingcourse.com/ecommerce/page/1/?orderby=popularity",
+                "text": "1",
+                "class": [
+                    "page-numbers"
+                ]
+            },
+            "link13": {
+                "href": "https://www.scrapingcourse.com/ecommerce/page/2/?orderby=popularity",
+                "text": "2",
+                "class": [
+                    "page-numbers"
+                ]
+            },
+            "link14": {
+                "href": "https://www.scrapingcourse.com/ecommerce/page/3/?orderby=popularity",
+                "text": "3",
+                "class": [
+                    "page-numbers"
+                ]
+            },
+            "link15": {
+                "href": "https://www.scrapingcourse.com/ecommerce/page/4/?orderby=popularity",
+                "text": "4",
+                "class": [
+                    "page-numbers"
+                ]
+            },
+            "link16": {
+                "href": "https://www.scrapingcourse.com/ecommerce/page/6/?orderby=popularity",
+                "text": "6",
+                "class": [
+                    "page-numbers"
+                ]
+            },
+            "link17": {
+                "href": "https://www.scrapingcourse.com/ecommerce/page/7/?orderby=popularity",
+                "text": "7",
+                "class": [
+                    "page-numbers"
+                ]
+            },
+            "link18": {
+                "href": "https://www.scrapingcourse.com/ecommerce/page/8/?orderby=popularity",
+                "text": "8",
+                "class": [
+                    "page-numbers"
+                ]
+            },
+            "link19": {
+                "href": "https://www.scrapingcourse.com/ecommerce/page/10/?orderby=popularity",
+                "text": "10",
+                "class": [
+                    "page-numbers"
+                ]
+            },
+            "link20": {
+                "href": "https://www.scrapingcourse.com/ecommerce/page/11/?orderby=popularity",
+                "text": "11",
+                "class": [
+                    "page-numbers"
+                ]
+            },
+            "link21": {
+                "href": "https://www.scrapingcourse.com/ecommerce/page/12/?orderby=popularity",
+                "text": "12",
+                "class": [
+                    "page-numbers"
+                ]
+            },
+            "link22": {
+                "href": "https://www.scrapingcourse.com/ecommerce/page/6/?orderby=popularity",
+                "text": "→",
+                "class": [
+                    "next",
+                    "page-numbers"
+                ]
+            },
+            "link23": {
+                "href": "https://www.scrapingcourse.com/ecommerce/product/fiona-fitness-short/",
+                "text": "Fiona Fitness Short$29.00",
+                "class": [
+                    "woocommerce-LoopProduct-link",
+                    "woocommerce-loop-product__link"
+                ]
+            },
+            "link24": {
+                "href": "https://www.scrapingcourse.com/ecommerce/product/fiona-fitness-short/",
+                "text": "Select options",
+                "class": [
+                    "button",
+                    "product_type_variable"
+                ],
+                "aria-label": "Select options for “Fiona Fitness Short”"
+            },
+            "link25": {
+                "href": "https://www.scrapingcourse.com/ecommerce/product/radiant-tee/",
+                "text": "Radiant Tee$22.00",
+                "class": [
+                    "woocommerce-LoopProduct-link",
+                    "woocommerce-loop-product__link"
+                ]
+            },
+            "link26": {
+                "href": "https://www.scrapingcourse.com/ecommerce/product/radiant-tee/",
+                "text": "Select options",
+                "class": [
+                    "button",
+                    "product_type_variable"
+                ],
+                "aria-label": "Select options for “Radiant Tee”"
+            },
+            "link27": {
+                "href": "https://www.scrapingcourse.com/ecommerce/product/diva-gym-tee/",
+                "text": "Diva Gym Tee$32.00",
+                "class": [
+                    "woocommerce-LoopProduct-link",
+                    "woocommerce-loop-product__link"
+                ]
+            },
+            "link28": {
+                "href": "https://www.scrapingcourse.com/ecommerce/product/diva-gym-tee/",
+                "text": "Select options",
+                "class": [
+                    "button",
+                    "product_type_variable"
+                ],
+                "aria-label": "Select options for “Diva Gym Tee”"
+            },
+            "link29": {
+                "href": "https://www.scrapingcourse.com/ecommerce/product/karissa-v-neck-tee/",
+                "text": "Karissa V-Neck Tee$32.00",
+                "class": [
+                    "woocommerce-LoopProduct-link",
+                    "woocommerce-loop-product__link"
+                ]
+            },
+            "link30": {
+                "href": "https://www.scrapingcourse.com/ecommerce/product/karissa-v-neck-tee/",
+                "text": "Select options",
+                "class": [
+                    "button",
+                    "product_type_variable"
+                ],
+                "aria-label": "Select options for “Karissa V-Neck Tee”"
+            },
+            "link31": {
+                "href": "https://www.scrapingcourse.com/ecommerce/product/tiffany-fitness-tee/",
+                "text": "Tiffany Fitness Tee$28.00",
+                "class": [
+                    "woocommerce-LoopProduct-link",
+                    "woocommerce-loop-product__link"
+                ]
+            },
+            "link32": {
+                "href": "https://www.scrapingcourse.com/ecommerce/product/tiffany-fitness-tee/",
+                "text": "Select options",
+                "class": [
+                    "button",
+                    "product_type_variable"
+                ],
+                "aria-label": "Select options for “Tiffany Fitness Tee”"
+            },
+            "link33": {
+                "href": "https://www.scrapingcourse.com/ecommerce/product/minerva-lumatech-v-tee/",
+                "text": "Minerva LumaTech™ V-Tee$32.00",
+                "class": [
+                    "woocommerce-LoopProduct-link",
+                    "woocommerce-loop-product__link"
+                ]
+            },
+            "link34": {
+                "href": "https://www.scrapingcourse.com/ecommerce/product/minerva-lumatech-v-tee/",
+                "text": "Select options",
+                "class": [
+                    "button",
+                    "product_type_variable"
+                ],
+                "aria-label": "Select options for “Minerva LumaTech™ V-Tee”"
+            },
+            "link35": {
+                "href": "https://www.scrapingcourse.com/ecommerce/product/juliana-short-sleeve-tee/",
+                "text": "Juliana Short-Sleeve Tee$42.00",
+                "class": [
+                    "woocommerce-LoopProduct-link",
+                    "woocommerce-loop-product__link"
+                ]
+            },
+            "link36": {
+                "href": "https://www.scrapingcourse.com/ecommerce/product/juliana-short-sleeve-tee/",
+                "text": "Select options",
+                "class": [
+                    "button",
+                    "product_type_variable"
+                ],
+                "aria-label": "Select options for “Juliana Short-Sleeve Tee”"
+            },
+            "link37": {
+                "href": "https://www.scrapingcourse.com/ecommerce/product/elisa-evercool-tee/",
+                "text": "Elisa EverCool™ Tee$29.00",
+                "class": [
+                    "woocommerce-LoopProduct-link",
+                    "woocommerce-loop-product__link"
+                ]
+            },
+            "link38": {
+                "href": "https://www.scrapingcourse.com/ecommerce/product/elisa-evercool-tee/",
+                "text": "Select options",
+                "class": [
+                    "button",
+                    "product_type_variable"
+                ],
+                "aria-label": "Select options for “Elisa EverCool™ Tee”"
+            },
+            "link39": {
+                "href": "https://www.scrapingcourse.com/ecommerce/product/desiree-fitness-tee/",
+                "text": "Desiree Fitness Tee$24.00",
+                "class": [
+                    "woocommerce-LoopProduct-link",
+                    "woocommerce-loop-product__link"
+                ]
+            },
+            "link40": {
+                "href": "https://www.scrapingcourse.com/ecommerce/product/desiree-fitness-tee/",
+                "text": "Select options",
+                "class": [
+                    "button",
+                    "product_type_variable"
+                ],
+                "aria-label": "Select options for “Desiree Fitness Tee”"
+            },
+            "link41": {
+                "href": "https://www.scrapingcourse.com/ecommerce/product/layla-tee/",
+                "text": "Layla Tee$29.00",
+                "class": [
+                    "woocommerce-LoopProduct-link",
+                    "woocommerce-loop-product__link"
+                ]
+            },
+            "link42": {
+                "href": "https://www.scrapingcourse.com/ecommerce/product/layla-tee/",
+                "text": "Select options",
+                "class": [
+                    "button",
+                    "product_type_variable"
+                ],
+                "aria-label": "Select options for “Layla Tee”"
+            },
+            "link43": {
+                "href": "https://www.scrapingcourse.com/ecommerce/product/iris-workout-top/",
+                "text": "Iris Workout Top$29.00",
+                "class": [
+                    "woocommerce-LoopProduct-link",
+                    "woocommerce-loop-product__link"
+                ]
+            },
+            "link44": {
+                "href": "https://www.scrapingcourse.com/ecommerce/product/iris-workout-top/",
+                "text": "Select options",
+                "class": [
+                    "button",
+                    "product_type_variable"
+                ],
+                "aria-label": "Select options for “Iris Workout Top”"
+            },
+            "link45": {
+                "href": "https://www.scrapingcourse.com/ecommerce/product/gabrielle-micro-sleeve-top/",
+                "text": "Gabrielle Micro Sleeve Top$28.00",
+                "class": [
+                    "woocommerce-LoopProduct-link",
+                    "woocommerce-loop-product__link"
+                ]
+            },
+            "link46": {
+                "href": "https://www.scrapingcourse.com/ecommerce/product/gabrielle-micro-sleeve-top/",
+                "text": "Select options",
+                "class": [
+                    "button",
+                    "product_type_variable"
+                ],
+                "aria-label": "Select options for “Gabrielle Micro Sleeve Top”"
+            },
+            "link47": {
+                "href": "https://www.scrapingcourse.com/ecommerce/product/gwyn-endurance-tee/",
+                "text": "Gwyn Endurance Tee$24.00",
+                "class": [
+                    "woocommerce-LoopProduct-link",
+                    "woocommerce-loop-product__link"
+                ]
+            },
+            "link48": {
+                "href": "https://www.scrapingcourse.com/ecommerce/product/gwyn-endurance-tee/",
+                "text": "Select options",
+                "class": [
+                    "button",
+                    "product_type_variable"
+                ],
+                "aria-label": "Select options for “Gwyn Endurance Tee”"
+            },
+            "link49": {
+                "href": "https://www.scrapingcourse.com/ecommerce/product/portia-capri/",
+                "text": "Portia Capri$49.00",
+                "class": [
+                    "woocommerce-LoopProduct-link",
+                    "woocommerce-loop-product__link"
+                ]
+            },
+            "link50": {
+                "href": "https://www.scrapingcourse.com/ecommerce/product/portia-capri/",
+                "text": "Select options",
+                "class": [
+                    "button",
+                    "product_type_variable"
+                ],
+                "aria-label": "Select options for “Portia Capri”"
+            },
+            "link51": {
+                "href": "https://www.scrapingcourse.com/ecommerce/product/deirdre-relaxed-fit-capri/",
+                "text": "Deirdre Relaxed-Fit Capri$63.00",
+                "class": [
+                    "woocommerce-LoopProduct-link",
+                    "woocommerce-loop-product__link"
+                ]
+            },
+            "link52": {
+                "href": "https://www.scrapingcourse.com/ecommerce/product/deirdre-relaxed-fit-capri/",
+                "text": "Select options",
+                "class": [
+                    "button",
+                    "product_type_variable"
+                ],
+                "aria-label": "Select options for “Deirdre Relaxed-Fit Capri”"
+            },
+            "link53": {
+                "href": "https://www.scrapingcourse.com/ecommerce/product/sylvia-capri/",
+                "text": "Sylvia Capri$42.00",
+                "class": [
+                    "woocommerce-LoopProduct-link",
+                    "woocommerce-loop-product__link"
+                ]
+            },
+            "link54": {
+                "href": "https://www.scrapingcourse.com/ecommerce/product/sylvia-capri/",
+                "text": "Select options",
+                "class": [
+                    "button",
+                    "product_type_variable"
+                ],
+                "aria-label": "Select options for “Sylvia Capri”"
+            },
+            "link55": {
+                "href": "https://www.scrapingcourse.com/ecommerce/page/4/?orderby=popularity",
+                "text": "←",
+                "class": [
+                    "prev",
+                    "page-numbers"
+                ]
+            },
+            "link56": {
+                "href": "https://www.scrapingcourse.com/ecommerce/page/1/?orderby=popularity",
+                "text": "1",
+                "class": [
+                    "page-numbers"
+                ]
+            },
+            "link57": {
+                "href": "https://www.scrapingcourse.com/ecommerce/page/2/?orderby=popularity",
+                "text": "2",
+                "class": [
+                    "page-numbers"
+                ]
+            },
+            "link58": {
+                "href": "https://www.scrapingcourse.com/ecommerce/page/3/?orderby=popularity",
+                "text": "3",
+                "class": [
+                    "page-numbers"
+                ]
+            },
+            "link59": {
+                "href": "https://www.scrapingcourse.com/ecommerce/page/4/?orderby=popularity",
+                "text": "4",
+                "class": [
+                    "page-numbers"
+                ]
+            },
+            "link60": {
+                "href": "https://www.scrapingcourse.com/ecommerce/page/6/?orderby=popularity",
+                "text": "6",
+                "class": [
+                    "page-numbers"
+                ]
+            },
+            "link61": {
+                "href": "https://www.scrapingcourse.com/ecommerce/page/7/?orderby=popularity",
+                "text": "7",
+                "class": [
+                    "page-numbers"
+                ]
+            },
+            "link62": {
+                "href": "https://www.scrapingcourse.com/ecommerce/page/8/?orderby=popularity",
+                "text": "8",
+                "class": [
+                    "page-numbers"
+                ]
+            },
+            "link63": {
+                "href": "https://www.scrapingcourse.com/ecommerce/page/10/?orderby=popularity",
+                "text": "10",
+                "class": [
+                    "page-numbers"
+                ]
+            },
+            "link64": {
+                "href": "https://www.scrapingcourse.com/ecommerce/page/11/?orderby=popularity",
+                "text": "11",
+                "class": [
+                    "page-numbers"
+                ]
+            },
+            "link65": {
+                "href": "https://www.scrapingcourse.com/ecommerce/page/12/?orderby=popularity",
+                "text": "12",
+                "class": [
+                    "page-numbers"
+                ]
+            },
+            "link66": {
+                "href": "https://www.scrapingcourse.com/ecommerce/page/6/?orderby=popularity",
+                "text": "→",
+                "class": [
+                    "next",
+                    "page-numbers"
+                ]
+            },
+            "link67": {
+                "href": "https://woo.com",
+                "text": "Built with WooCommerce",
+                "title": "WooCommerce - The Best eCommerce Platform for WordPress"
+            },
+            "link68": {
+                "href": "https://www.scrapingcourse.com/ecommerce/my-account/",
+                "text": "My Account"
+            },
+            "link69": {
+                "text": "Search"
+            },
+            "link70": {
+                "href": "https://www.scrapingcourse.com/ecommerce/cart/",
+                "text": "Cart0",
+                "class": [
+                    "footer-cart-contents"
+                ]
+            }
+        }
+    },
+    {
+        "url": "https://www.scrapingcourse.com/ecommerce/page/5/?orderby=popularity",
+        "nr_tot_forms": 5,
+        "forms_attributes": {
+            "form1": {
+                "form_attrs": [
+                    {
+                        "role": "search",
+                        "method": "get",
+                        "action": "https://www.scrapingcourse.com/ecommerce/",
+                        "class": [
+                            "woocommerce-product-search"
+                        ],
+                        "id": null,
+                        "text": "Search for:Search"
+                    }
+                ],
+                "inputs": [
+                    {
+                        "type": "search",
+                        "name": "s",
+                        "value": "",
+                        "id": "woocommerce-product-search-field-0"
+                    },
+                    {
+                        "type": "hidden",
+                        "name": "post_type",
+                        "value": "product",
+                        "id": "product-search-hidden"
+                    }
+                ]
+            },
+            "form2": {
+                "form_attrs": [
+                    {
+                        "role": null,
+                        "method": "get",
+                        "action": null,
+                        "class": [
+                            "woocommerce-ordering"
+                        ],
+                        "id": null,
+                        "text": "Default sortingSort by popularitySort by latestSort by price: low to highSort by price: high to low"
+                    }
+                ],
+                "inputs": [
+                    {
+                        "type": "hidden",
+                        "name": "paged",
+                        "value": "1",
+                        "id": "order-paged"
+                    }
+                ],
+                "select_options": [
+                    {
+                        "select_name": "orderby",
+                        "select_class": [
+                            "orderby"
+                        ],
+                        "select_id": "order-select",
+                        "select_aria_label": "Shop order",
+                        "option_values": [
+                            "menu_order",
+                            "popularity",
+                            "date",
+                            "price",
+                            "price-desc"
+                        ],
+                        "option_texts": [
+                            "Default sorting",
+                            "Sort by popularity",
+                            "Sort by latest",
+                            "Sort by price: low to high",
+                            "Sort by price: high to low"
+                        ],
+                        "selected_value": "popularity",
+                        "selected_text": "Sort by popularity"
+                    }
+                ]
+            },
+            "form3": {
+                "form_attrs": [
+                    {
+                        "role": null,
+                        "method": "get",
+                        "action": null,
+                        "class": [
+                            "woocommerce-ordering"
+                        ],
+                        "id": null,
+                        "text": "Default sortingSort by popularitySort by latestSort by price: low to highSort by price: high to low"
+                    }
+                ],
+                "inputs": [
+                    {
+                        "type": "hidden",
+                        "name": "paged",
+                        "value": "1",
+                        "id": "order-paged"
+                    }
+                ],
+                "select_options": [
+                    {
+                        "select_name": "orderby",
+                        "select_class": [
+                            "orderby"
+                        ],
+                        "select_id": "order-select",
+                        "select_aria_label": "Shop order",
+                        "option_values": [
+                            "menu_order",
+                            "popularity",
+                            "date",
+                            "price",
+                            "price-desc"
+                        ],
+                        "option_texts": [
+                            "Default sorting",
+                            "Sort by popularity",
+                            "Sort by latest",
+                            "Sort by price: low to high",
+                            "Sort by price: high to low"
+                        ],
+                        "selected_value": "popularity",
+                        "selected_text": "Sort by popularity"
+                    }
+                ]
+            },
+            "form4": {
+                "form_attrs": [
+                    {
+                        "role": "search",
+                        "method": "get",
+                        "action": "https://www.scrapingcourse.com/ecommerce/",
+                        "class": [
+                            "wp-block-search__button-outside",
+                            "wp-block-search__text-button",
+                            "wp-block-search"
+                        ],
+                        "id": null,
+                        "text": "SearchSearch"
+                    }
+                ],
+                "inputs": [
+                    {
+                        "type": "search",
+                        "name": "s",
+                        "value": "",
+                        "id": "wp-block-search__input-1"
+                    }
+                ]
+            },
+            "form5": {
+                "form_attrs": [
+                    {
+                        "role": "search",
+                        "method": "get",
+                        "action": "https://www.scrapingcourse.com/ecommerce/",
+                        "class": [
+                            "woocommerce-product-search"
+                        ],
+                        "id": null,
+                        "text": "Search for:Search"
+                    }
+                ],
+                "inputs": [
+                    {
+                        "type": "search",
+                        "name": "s",
+                        "value": "",
+                        "id": "woocommerce-product-search-field-1"
+                    },
+                    {
+                        "type": "hidden",
+                        "name": "post_type",
+                        "value": "product",
+                        "id": "product-search-hidden"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "url": "https://www.scrapingcourse.com/ecommerce/page/5/?orderby=popularity",
+        "nr_tot_buttons": 4,
+        "buttons_attributes": {
+            "button1": {
+                "text": "Search",
+                "id": "product-search-button",
+                "type": "submit",
+                "class": [],
+                "data-testid": "product-search-button",
+                "value": "Search"
+            },
+            "button2": {
+                "text": "Menu",
+                "id": "site-navigation-menu-toggle",
+                "type": null,
+                "class": [
+                    "menu-toggle"
+                ],
+                "data-testid": "site-navigation-menu-toggle",
+                "data-nav": "toggle"
+            },
+            "button3": {
+                "text": "Search",
+                "id": null,
+                "type": "submit",
+                "aria-label": "Search",
+                "class": [
+                    "wp-block-search__button",
+                    "wp-element-button"
+                ]
+            },
+            "button4": {
+                "text": "Search",
+                "id": "product-search-button",
+                "type": "submit",
+                "class": [],
+                "data-testid": "product-search-button",
+                "value": "Search"
+            }
+        }
+    },
+    {
+        "url": "https://www.scrapingcourse.com/ecommerce/page/5/?orderby=popularity",
+        "nr_tot_dropdowns": 2,
+        "dropdowns_attributes": {
+            "dropdown1": {
+                "select_name": "orderby",
+                "select_class": [
+                    "orderby"
+                ],
+                "select_id": "order-select",
+                "select_aria_label": "Shop order",
+                "option_values": [
+                    "menu_order",
+                    "popularity",
+                    "date",
+                    "price",
+                    "price-desc"
+                ],
+                "option_texts": [
+                    "Default sorting",
+                    "Sort by popularity",
+                    "Sort by latest",
+                    "Sort by price: low to high",
+                    "Sort by price: high to low"
+                ],
+                "selected_value": "popularity",
+                "selected_text": "Sort by popularity"
+            },
+            "dropdown2": {
+                "select_name": "orderby",
+                "select_class": [
+                    "orderby"
+                ],
+                "select_id": "order-select",
+                "select_aria_label": "Shop order",
+                "option_values": [
+                    "menu_order",
+                    "popularity",
+                    "date",
+                    "price",
+                    "price-desc"
+                ],
+                "option_texts": [
+                    "Default sorting",
+                    "Sort by popularity",
+                    "Sort by latest",
+                    "Sort by price: low to high",
+                    "Sort by price: high to low"
+                ],
+                "selected_value": "popularity",
+                "selected_text": "Sort by popularity"
+            }
+        }
+    },
+    {
+        "url": "https://www.scrapingcourse.com/ecommerce/page/5/?orderby=popularity",
+        "nr_tot_inputs": 7,
+        "buttons_attributes": {
+            "input1": {
+                "type": "search",
+                "id": "woocommerce-product-search-field-0",
+                "value": "",
+                "name": "s",
+                "data-testid": "product-search-field",
+                "class": [
+                    "search-field"
+                ],
+                "placeholder": "Search products…"
+            },
+            "input2": {
+                "type": "hidden",
+                "id": "product-search-hidden",
+                "value": "product",
+                "name": "post_type",
+                "data-testid": "product-search-hidden"
+            },
+            "input3": {
+                "type": "hidden",
+                "id": "order-paged",
+                "value": "1",
+                "name": "paged",
+                "data-testid": "order-paged"
+            },
+            "input4": {
+                "type": "hidden",
+                "id": "order-paged",
+                "value": "1",
+                "name": "paged",
+                "data-testid": "order-paged"
+            },
+            "input5": {
+                "type": "search",
+                "id": "wp-block-search__input-1",
+                "value": "",
+                "name": "s",
+                "data-testid": null,
+                "class": [
+                    "wp-block-search__input"
+                ],
+                "placeholder": ""
+            },
+            "input6": {
+                "type": "search",
+                "id": "woocommerce-product-search-field-1",
+                "value": "",
+                "name": "s",
+                "data-testid": "product-search-field",
+                "class": [
+                    "search-field"
+                ],
+                "placeholder": "Search products…"
+            },
+            "input7": {
+                "type": "hidden",
+                "id": "product-search-hidden",
+                "value": "product",
+                "name": "post_type",
+                "data-testid": "product-search-hidden"
+            }
+        }
+    },
+    {
+        "url": "https://www.scrapingcourse.com/ecommerce/page/5/?orderby=popularity",
+        "nr_tot_navs": 4,
+        "navs_attributes": {
+            "nav1": {
+                "nav_attrs": {
+                    "id": "site-navigation",
+                    "class": [
+                        "main-navigation"
+                    ],
+                    "data-testid": "site-navigation",
+                    "aria-label": "Primary Navigation",
+                    "role": "navigation"
+                },
+                "nav_list_items": [
+                    {
+                        "text": "Shop",
+                        "class": [
+                            "menu-item",
+                            "menu-item-type-post_type",
+                            "menu-item-object-page",
+                            "menu-item-home",
+                            "current-menu-item",
+                            "current_page_item",
+                            "menu-item-2829"
+                        ],
+                        "id": "menu-item-2829",
+                        "href": "https://www.scrapingcourse.com/ecommerce/"
+                    },
+                    {
+                        "text": "Home",
+                        "href": "https://www.scrapingcourse.com/ecommerce/"
+                    },
+                    {
+                        "text": "Cart",
+                        "class": [
+                            "page_item",
+                            "page-item-7"
+                        ],
+                        "href": "https://www.scrapingcourse.com/ecommerce/cart/"
+                    },
+                    {
+                        "text": "Checkout",
+                        "class": [
+                            "page_item",
+                            "page-item-8"
+                        ],
+                        "href": "https://www.scrapingcourse.com/ecommerce/checkout/"
+                    },
+                    {
+                        "text": "My account",
+                        "class": [
+                            "page_item",
+                            "page-item-9"
+                        ],
+                        "href": "https://www.scrapingcourse.com/ecommerce/my-account/"
+                    }
+                ]
+            },
+            "nav2": {
+                "nav_attrs": {
+                    "id": null,
+                    "class": [
+                        "woocommerce-breadcrumb"
+                    ],
+                    "data-testid": null,
+                    "aria-label": "breadcrumbs"
+                }
+            },
+            "nav3": {
+                "nav_attrs": {
+                    "id": "pagination",
+                    "class": [
+                        "woocommerce-pagination"
+                    ],
+                    "data-testid": "pagination"
+                },
+                "nav_list_items": [
+                    {
+                        "text": "←",
+                        "href": "https://www.scrapingcourse.com/ecommerce/page/4/?orderby=popularity"
+                    },
+                    {
+                        "text": "1",
+                        "href": "https://www.scrapingcourse.com/ecommerce/page/1/?orderby=popularity"
+                    },
+                    {
+                        "text": "2",
+                        "href": "https://www.scrapingcourse.com/ecommerce/page/2/?orderby=popularity"
+                    },
+                    {
+                        "text": "3",
+                        "href": "https://www.scrapingcourse.com/ecommerce/page/3/?orderby=popularity"
+                    },
+                    {
+                        "text": "4",
+                        "href": "https://www.scrapingcourse.com/ecommerce/page/4/?orderby=popularity"
+                    },
+                    {
+                        "text": "5"
+                    },
+                    {
+                        "text": "6",
+                        "href": "https://www.scrapingcourse.com/ecommerce/page/6/?orderby=popularity"
+                    },
+                    {
+                        "text": "7",
+                        "href": "https://www.scrapingcourse.com/ecommerce/page/7/?orderby=popularity"
+                    },
+                    {
+                        "text": "8",
+                        "href": "https://www.scrapingcourse.com/ecommerce/page/8/?orderby=popularity"
+                    },
+                    {
+                        "text": "…"
+                    },
+                    {
+                        "text": "10",
+                        "href": "https://www.scrapingcourse.com/ecommerce/page/10/?orderby=popularity"
+                    },
+                    {
+                        "text": "11",
+                        "href": "https://www.scrapingcourse.com/ecommerce/page/11/?orderby=popularity"
+                    },
+                    {
+                        "text": "12",
+                        "href": "https://www.scrapingcourse.com/ecommerce/page/12/?orderby=popularity"
+                    },
+                    {
+                        "text": "→",
+                        "href": "https://www.scrapingcourse.com/ecommerce/page/6/?orderby=popularity"
+                    }
+                ]
+            },
+            "nav4": {
+                "nav_attrs": {
+                    "id": "pagination",
+                    "class": [
+                        "woocommerce-pagination"
+                    ],
+                    "data-testid": "pagination"
+                },
+                "nav_list_items": [
+                    {
+                        "text": "←",
+                        "href": "https://www.scrapingcourse.com/ecommerce/page/4/?orderby=popularity"
+                    },
+                    {
+                        "text": "1",
+                        "href": "https://www.scrapingcourse.com/ecommerce/page/1/?orderby=popularity"
+                    },
+                    {
+                        "text": "2",
+                        "href": "https://www.scrapingcourse.com/ecommerce/page/2/?orderby=popularity"
+                    },
+                    {
+                        "text": "3",
+                        "href": "https://www.scrapingcourse.com/ecommerce/page/3/?orderby=popularity"
+                    },
+                    {
+                        "text": "4",
+                        "href": "https://www.scrapingcourse.com/ecommerce/page/4/?orderby=popularity"
+                    },
+                    {
+                        "text": "5"
+                    },
+                    {
+                        "text": "6",
+                        "href": "https://www.scrapingcourse.com/ecommerce/page/6/?orderby=popularity"
+                    },
+                    {
+                        "text": "7",
+                        "href": "https://www.scrapingcourse.com/ecommerce/page/7/?orderby=popularity"
+                    },
+                    {
+                        "text": "8",
+                        "href": "https://www.scrapingcourse.com/ecommerce/page/8/?orderby=popularity"
+                    },
+                    {
+                        "text": "…"
+                    },
+                    {
+                        "text": "10",
+                        "href": "https://www.scrapingcourse.com/ecommerce/page/10/?orderby=popularity"
+                    },
+                    {
+                        "text": "11",
+                        "href": "https://www.scrapingcourse.com/ecommerce/page/11/?orderby=popularity"
+                    },
+                    {
+                        "text": "12",
+                        "href": "https://www.scrapingcourse.com/ecommerce/page/12/?orderby=popularity"
+                    },
+                    {
+                        "text": "→",
+                        "href": "https://www.scrapingcourse.com/ecommerce/page/6/?orderby=popularity"
+                    }
+                ]
+            }
+        }
+    }
+]
